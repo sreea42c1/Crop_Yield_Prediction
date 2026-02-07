@@ -10,6 +10,7 @@ Build a predictive model using a real or public dataset to predict a future valu
 Dataset: yield_df.csv
 
 Type: Public agricultural dataset
+
 Features:Year,Average Rainfall,Average Temperature,Pesticide Usage,Target Variable,Crop Yield
 
 🔍 Results & Inference:
