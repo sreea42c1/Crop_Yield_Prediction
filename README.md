@@ -16,13 +16,6 @@ Features:Year,Average Rainfall,Average Temperature,Pesticide Usage,Target Variab
 🔍 Results & Inference:
 The model successfully learns relationships between environmental factors and crop yield.
 
-Sample prediction output:
-
-Predicted Future Crop Yield: 512.45
-
-This value represents the expected crop yield under given environmental conditions.
-Rainfall and temperature were observed to have a strong influence on crop production.
-
 🛠️ Technologies Used:
 Python,Pandas,NumPy,Scikit-learn,Flask (for deployment),Jupyter Notebook
 
